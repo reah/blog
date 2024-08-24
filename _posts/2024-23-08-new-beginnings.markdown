@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "new beginnings"
-date:   2024-23-08 09:42:40 -0700
+date: 2024-08-23 09:42:40 -0700
 categories: sf
 ---
 To new beginnings. 
